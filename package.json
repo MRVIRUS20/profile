@@ -1,0 +1,12 @@
+{
+  "name": "kim",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.htm",
+    "build": "parcel build index.htm"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
